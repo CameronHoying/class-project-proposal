@@ -1,1 +1,1 @@
-<h1>ByteWise</h1>
+<h1>TimeWise</h1>
